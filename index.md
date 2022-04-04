@@ -20,7 +20,7 @@ First, I set out to visualize income within the region in the form of income bra
 
 <p style="text-align: center;">Map 1 - Income Brackets</p>
 
-![KW_Income_Snip](C:\batcave\Code_Snippets\gg369\assets\img\KW_Income_Map.jpg)
+![KW_Income_Snip](/FinalProject/assets/img/KW_Income_Map.jpg)
 
 ## Map 2 - Public Transit
 
@@ -31,7 +31,7 @@ To find the length of the transportation route, we first merge the vector layers
 
 <p style="text-align: center;">Map 2 - Income Transit Map</p>
 
-![KW_Income_Snip](../assets/images/GG369/Income_Transit_Map.jpg)
+![KW_Income_Snip](../GG369/assets/img/Income_Transit_Map.jpg)
 
 ## Map 3 - Bike Network
 
@@ -42,11 +42,11 @@ Once Again, using the Field Calculator and the Statistics tool, we can find the 
 <div style="page-break-after: always;"></div>
 <p style="text-align: center;">Process Image</p>
 
-![Process_Image](C:\batcave\Code_Snippets\gg369\assets\img\Process_Snip.jpg)
+![Process_Image](../GG369/assets/img/Process_Snip.jpg)
 
 <p style="text-align: center;">Map 3 - Income Bike Map</p>
 
-![Process_Image](../assets/images/GG369/Income_Bike_Map.jpg)
+![Process_Image](../GG369/assets/img/Income_Bike_Map.jpg)
 
 
 
