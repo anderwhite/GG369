@@ -1,4 +1,4 @@
-# GG369 - Final Project
+# Final Project
 
 __Author:__ _Alexander White_
 __Date:__ _March 1st, 2022_
