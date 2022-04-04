@@ -20,7 +20,7 @@ First, I set out to visualize income within the region in the form of income bra
 
 <p style="text-align: center;">Map 1 - Income Brackets</p>
 
-![KW_Income_Snip](/FinalProject/assets/img/KW_Income_Map.jpg)
+![KW_Income_Snip](../GG369/assets/img/KW_Income_Map.jpg)
 
 ## Map 2 - Public Transit
 
@@ -81,4 +81,4 @@ Speck, J. (2018). Walkable city rules: 101 steps to making better places. In *Wa
 Weitz, J., & Moore, T. (1998). Development inside Urban Growth Boundaries: Oregon’s Empirical Evidence of Contiguous Urban Form. *Journal of the American Planning Association*, *64*(4), 424–440. https://doi.org/10.1080/01944369808976002
 
 ---
-##### This document was created in the Markdown Language for dissemination on the personal blog of Alexander White, [anderwhite.github.io](https://anderwhite.github.io/) at the time of writing. All maps and images were created by Alexander D. White, March 2022 for GG369 - Geographical Info Systems, Wilfrid Laurier University, using QGIS 3.16.15, OpenStreetMap, and course-provided data. Information is for personal use only as data may not be accurate.
+##### This document was created in the Markdown Language for dissemination on the personal blog of Alexander White, [anderwhite.github.io/GG369](https://anderwhite.github.io/GG369/) at the time of writing. All maps and images were created by Alexander D. White, March 2022 for GG369 - Geographical Info Systems, Wilfrid Laurier University, using QGIS 3.16.15, OpenStreetMap, and course-provided data. Information is for personal use only as data may not be accurate.
